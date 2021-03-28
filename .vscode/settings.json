@@ -1,0 +1,22 @@
+{
+  "[json]": {
+  "breadcrumbs.showEvents": true,
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "emmet.preferences": {
+    
+  
+  },
+  "emmet.excludeLanguages": [
+
+
+
+
+    "markdown"
+  ],
+  "emmet.extensionsPath": "",
+  "emmet.includeLanguages": {"erb" : "html", "ruby" : "html"}
+}
